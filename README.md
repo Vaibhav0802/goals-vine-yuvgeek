@@ -161,7 +161,7 @@ This email will be triggered to every user each month with their goal stats.
 
 **URL:** https://goals-vine.netlify.app/
 
-**Github Repo:** https://github.com/yuvgeek/goals-vine
+**Github Repo:** https://github.com/Vaibhav0802/goals-vine-yuvgeek.git
 
 
 ## Challenges Faced 🤼
